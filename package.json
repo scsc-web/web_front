@@ -1,0 +1,14 @@
+{
+  "name": "web_front",
+  "version": "0.1.0-alpha",
+  "main": "js/index.js",
+  "repository": "https://github.com/clarkindy/web_front.git",
+  "author": "SCSC",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "eslint-config-standard": "^11.0.0",
+    "jquery": "^3.3.1"
+  }
+}
